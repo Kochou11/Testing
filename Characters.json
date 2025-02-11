@@ -26,5 +26,12 @@
     "nameHint": "K",
     "silhouetteImage": "https://maxm-imggenurl.web.val.run/kakashi-character-silhouette",
     "originalImage": "https://maxm-imggenurl.web.val.run/kakashi-hatake-original"
-  }
+  },
+  {
+    "id": 5,
+    "name": "Nauhudo",
+    "nameHint": "N",
+    "silhouetteImage": "https://maxm-imggenurl.web.val.run/naruto-character-silhouette",
+    "originalImage": "https://maxm-imggenurl.web.val.run/naruto-uzumaki-original"
+  },
 ]
