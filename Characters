@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto Uzumaki",
+    "nameHint": "N",
+    "silhouetteImage": "https://maxm-imggenurl.web.val.run/naruto-character-silhouette",
+    "originalImage": "https://maxm-imggenurl.web.val.run/naruto-uzumaki-original"
+  },
+  {
+    "id": 2,
+    "name": "Sasuke Uchiha",
+    "nameHint": "S",
+    "silhouetteImage": "https://maxm-imggenurl.web.val.run/sasuke-character-silhouette",
+    "originalImage": "https://maxm-imggenurl.web.val.run/sasuke-uchiha-original"
+  },
+  {
+    "id": 3,
+    "name": "Sakura Haruno",
+    "nameHint": "S",
+    "silhouetteImage": "https://maxm-imggenurl.web.val.run/sakura-character-silhouette",
+    "originalImage": "https://maxm-imggenurl.web.val.run/sakura-haruno-original"
+  },
+  {
+    "id": 4,
+    "name": "Kakashi Hatake",
+    "nameHint": "K",
+    "silhouetteImage": "https://maxm-imggenurl.web.val.run/kakashi-character-silhouette",
+    "originalImage": "https://maxm-imggenurl.web.val.run/kakashi-hatake-original"
+  }
+]
