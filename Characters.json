@@ -9,120 +9,103 @@
     "id": 2,
     "name": "Vegeta",
     "nameHint": "V",
-    "silhouetteImage": "https://example.com/vegeta-character-silhouette",
-    "originalImage": "https://example.com/vegeta-original"
+    "originalImage": "https://www.giantbomb.com/a/uploads/scale_medium/1/12541/3041772-b3a.png"
   },
   {
     "id": 3,
     "name": "Luffy",
     "nameHint": "L",
-    "silhouetteImage": "https://example.com/luffy-character-silhouette",
-    "originalImage": "https://example.com/luffy-original"
+    "originalImage": "https://i.pinimg.com/474x/37/d4/70/37d4700ad275494dd63905a712852536.jpg"
   },
   {
     "id": 4,
     "name": "Zoro",
     "nameHint": "Z",
-    "silhouetteImage": "https://example.com/zoro-character-silhouette",
-    "originalImage": "https://example.com/zoro-original"
+    "originalImage": "https://i.pinimg.com/736x/ed/b7/0c/edb70ce8479eeb4c096b4d19fb2d305e.jpg"
   },
   {
     "id": 5,
     "name": "Naruto Uzumaki",
     "nameHint": "N",
-    "silhouetteImage": "https://example.com/naruto-character-silhouette",
-    "originalImage": "https://example.com/naruto-uzumaki-original"
+    "originalImage": "https://static.wikia.nocookie.net/characterprofile/images/e/ea/Naruto.png/revision/latest?cb=20160117143659"
   },
   {
     "id": 6,
     "name": "Sasuke Uchiha",
     "nameHint": "S",
-    "silhouetteImage": "https://example.com/sasuke-character-silhouette",
-    "originalImage": "https://example.com/sasuke-uchiha-original"
+    "originalImage": "https://i.pinimg.com/736x/fc/89/2e/fc892e478e36064312516ff775f4eaba.jpg"
   },
   {
     "id": 7,
     "name": "Ichigo Kurosaki",
     "nameHint": "I",
-    "silhouetteImage": "https://example.com/ichigo-character-silhouette",
-    "originalImage": "https://example.com/ichigo-kurosaki-original"
+    "originalImage": "https://static.tvtropes.org/pmwiki/pub/images/bbs_ichigo.png"
   },
   {
     "id": 8,
     "name": "Rukia Kuchiki",
     "nameHint": "R",
-    "silhouetteImage": "https://example.com/rukia-character-silhouette",
-    "originalImage": "https://example.com/rukia-kuchiki-original"
+    "originalImage": "https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/0/02/Rukia_Kuchiki.png/revision/latest?cb=20211028235936"
   },
   {
     "id": 9,
     "name": "Edward Elric",
     "nameHint": "E",
-    "silhouetteImage": "https://example.com/edward-character-silhouette",
-    "originalImage": "https://example.com/edward-elric-original"
+    "originalImage": "https://static.wikia.nocookie.net/ultimate-worldpedia/images/6/6d/Edward_Elric_Full_Body_Anime-brotherhood.png/revision/latest?cb=20181016170248"
   },
   {
     "id": 10,
     "name": "Alphonse Elric",
     "nameHint": "A",
-    "silhouetteImage": "https://example.com/alphonse-character-silhouette",
-    "originalImage": "https://example.com/alphonse-elric-original"
+    "originalImage": "https://static.wikia.nocookie.net/p__/images/0/0a/Alphonse_Elric.png/revision/latest?cb=20220624000315&path-prefix=protagonist"
   },
   {
     "id": 11,
     "name": "Light Yagami",
     "nameHint": "L",
-    "silhouetteImage": "https://example.com/light-character-silhouette",
-    "originalImage": "https://example.com/light-yagami-original"
+    "originalImage": "https://static.wikia.nocookie.net/character-stats-and-profiles/images/e/e6/Light_Yagami.png/revision/latest?cb=20200430130615"
   },
   {
     "id": 12,
     "name": "L Lawliet",
     "nameHint": "L",
-    "silhouetteImage": "https://example.com/l-character-silhouette",
-    "originalImage": "https://example.com/l-lawliet-original"
+    "originalImage": "https://static.wikia.nocookie.net/p__/images/0/0c/L_Lawliet.png/revision/latest?cb=20210120194215&path-prefix=protagonist"
   },
   {
     "id": 13,
     "name": "Eren Yeager",
     "nameHint": "E",
-    "silhouetteImage": "https://example.com/eren-character-silhouette",
-    "originalImage": "https://example.com/eren-yeager-original"
+    "originalImage": "https://static.wikia.nocookie.net/listofdeaths/images/2/29/Eren_Yeager.jpg/revision/latest?cb=20231106130210"
   },
   {
     "id": 14,
     "name": "Mikasa Ackerman",
     "nameHint": "M",
-    "silhouetteImage": "https://example.com/mikasa-character-silhouette",
-    "originalImage": "https://example.com/mikasa-ackerman-original"
+    "originalImage": "https://static.wikia.nocookie.net/characterprofile/images/c/cf/Mikasa.png/revision/latest?cb=20210501220744"
   },
   {
     "id": 15,
     "name": "Levi Ackerman",
     "nameHint": "L",
-    "silhouetteImage": "https://example.com/levi-character-silhouette",
-    "originalImage": "https://example.com/levi-ackerman-original"
+    "originalImage": "https://i.pinimg.com/474x/57/10/d6/5710d698dad3dee012d826e5a0b01141.jpg"
   },
   {
     "id": 16,
     "name": "Killua Zoldyck",
     "nameHint": "K",
-    "silhouetteImage": "https://example.com/killua-character-silhouette",
-    "originalImage": "https://example.com/killua-zoldyck-original"
+    "originalImage": "https://static.wikia.nocookie.net/p__/images/7/7c/Killua-2011.png/revision/latest?cb=20160215183628&path-prefix=protagonist"
   },
   {
     "id": 17,
     "name": "Gon Freecss",
     "nameHint": "G",
-    "silhouetteImage": "https://example.com/gon-character-silhouette",
-    "originalImage": "https://example.com/gon-freecss-original"
+    "originalImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5u3vHjHpUjbLZsrqonxURmYJ9XNce_oPkrQ&usqp=CAU"
   },
   {
     "id": 18,
     "name": "Hisoka",
     "nameHint": "H",
-    "silhouetteImage": "https://example.com/hisoka-character-silhouette",
-    "originalImage": "https://example.com/hisoka-original"
+    "originalImage": "https://static.wikia.nocookie.net/characterprofile/images/1/1c/Hisoka.png/revision/latest?cb=20220918185653"
   },
   {
     "id": 19,
