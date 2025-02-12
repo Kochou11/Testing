@@ -1,37 +1,212 @@
 [
   {
     "id": 1,
-    "name": "Naruto Uzumaki",
-    "nameHint": "N",
-    "silhouetteImage": "https://maxm-imggenurl.web.val.run/naruto-character-silhouette",
-    "originalImage": "https://maxm-imggenurl.web.val.run/naruto-uzumaki-original"
+    "name": "Goku",
+    "nameHint": "G",
+    "silhouetteImage": "https://example.com/goku-character-silhouette",
+    "originalImage": "https://example.com/goku-original"
   },
   {
     "id": 2,
-    "name": "Sasuke Uchiha",
-    "nameHint": "S",
-    "silhouetteImage": "https://maxm-imggenurl.web.val.run/sasuke-character-silhouette",
-    "originalImage": "https://maxm-imggenurl.web.val.run/sasuke-uchiha-original"
+    "name": "Vegeta",
+    "nameHint": "V",
+    "silhouetteImage": "https://example.com/vegeta-character-silhouette",
+    "originalImage": "https://example.com/vegeta-original"
   },
   {
     "id": 3,
-    "name": "Sakura Haruno",
-    "nameHint": "S",
-    "silhouetteImage": "https://maxm-imggenurl.web.val.run/sakura-character-silhouette",
-    "originalImage": "https://maxm-imggenurl.web.val.run/sakura-haruno-original"
+    "name": "Luffy",
+    "nameHint": "L",
+    "silhouetteImage": "https://example.com/luffy-character-silhouette",
+    "originalImage": "https://example.com/luffy-original"
   },
   {
     "id": 4,
-    "name": "Kakashi Hatake",
-    "nameHint": "K",
-    "silhouetteImage": "https://maxm-imggenurl.web.val.run/kakashi-character-silhouette",
-    "originalImage": "https://maxm-imggenurl.web.val.run/kakashi-hatake-original"
+    "name": "Zoro",
+    "nameHint": "Z",
+    "silhouetteImage": "https://example.com/zoro-character-silhouette",
+    "originalImage": "https://example.com/zoro-original"
   },
   {
     "id": 5,
-    "name": "Nauhudo",
+    "name": "Naruto Uzumaki",
     "nameHint": "N",
-    "silhouetteImage": "https://maxm-imggenurl.web.val.run/naruto-character-silhouette",
-    "originalImage": "https://maxm-imggenurl.web.val.run/naruto-uzumaki-original"
+    "silhouetteImage": "https://example.com/naruto-character-silhouette",
+    "originalImage": "https://example.com/naruto-uzumaki-original"
   },
+  {
+    "id": 6,
+    "name": "Sasuke Uchiha",
+    "nameHint": "S",
+    "silhouetteImage": "https://example.com/sasuke-character-silhouette",
+    "originalImage": "https://example.com/sasuke-uchiha-original"
+  },
+  {
+    "id": 7,
+    "name": "Ichigo Kurosaki",
+    "nameHint": "I",
+    "silhouetteImage": "https://example.com/ichigo-character-silhouette",
+    "originalImage": "https://example.com/ichigo-kurosaki-original"
+  },
+  {
+    "id": 8,
+    "name": "Rukia Kuchiki",
+    "nameHint": "R",
+    "silhouetteImage": "https://example.com/rukia-character-silhouette",
+    "originalImage": "https://example.com/rukia-kuchiki-original"
+  },
+  {
+    "id": 9,
+    "name": "Edward Elric",
+    "nameHint": "E",
+    "silhouetteImage": "https://example.com/edward-character-silhouette",
+    "originalImage": "https://example.com/edward-elric-original"
+  },
+  {
+    "id": 10,
+    "name": "Alphonse Elric",
+    "nameHint": "A",
+    "silhouetteImage": "https://example.com/alphonse-character-silhouette",
+    "originalImage": "https://example.com/alphonse-elric-original"
+  },
+  {
+    "id": 11,
+    "name": "Light Yagami",
+    "nameHint": "L",
+    "silhouetteImage": "https://example.com/light-character-silhouette",
+    "originalImage": "https://example.com/light-yagami-original"
+  },
+  {
+    "id": 12,
+    "name": "L Lawliet",
+    "nameHint": "L",
+    "silhouetteImage": "https://example.com/l-character-silhouette",
+    "originalImage": "https://example.com/l-lawliet-original"
+  },
+  {
+    "id": 13,
+    "name": "Eren Yeager",
+    "nameHint": "E",
+    "silhouetteImage": "https://example.com/eren-character-silhouette",
+    "originalImage": "https://example.com/eren-yeager-original"
+  },
+  {
+    "id": 14,
+    "name": "Mikasa Ackerman",
+    "nameHint": "M",
+    "silhouetteImage": "https://example.com/mikasa-character-silhouette",
+    "originalImage": "https://example.com/mikasa-ackerman-original"
+  },
+  {
+    "id": 15,
+    "name": "Levi Ackerman",
+    "nameHint": "L",
+    "silhouetteImage": "https://example.com/levi-character-silhouette",
+    "originalImage": "https://example.com/levi-ackerman-original"
+  },
+  {
+    "id": 16,
+    "name": "Killua Zoldyck",
+    "nameHint": "K",
+    "silhouetteImage": "https://example.com/killua-character-silhouette",
+    "originalImage": "https://example.com/killua-zoldyck-original"
+  },
+  {
+    "id": 17,
+    "name": "Gon Freecss",
+    "nameHint": "G",
+    "silhouetteImage": "https://example.com/gon-character-silhouette",
+    "originalImage": "https://example.com/gon-freecss-original"
+  },
+  {
+    "id": 18,
+    "name": "Hisoka",
+    "nameHint": "H",
+    "silhouetteImage": "https://example.com/hisoka-character-silhouette",
+    "originalImage": "https://example.com/hisoka-original"
+  },
+  {
+    "id": 19,
+    "name": "Rem",
+    "nameHint": "R",
+    "silhouetteImage": "https://example.com/rem-character-silhouette",
+    "originalImage": "https://example.com/rem-original"
+  },
+  {
+    "id": 20,
+    "name": "Emilia",
+    "nameHint": "E",
+    "silhouetteImage": "https://example.com/emilia-character-silhouette",
+    "originalImage": "https://example.com/emilia-original"
+  },
+  {
+    "id": 21,
+    "name": "Saitama",
+    "nameHint": "S",
+    "silhouetteImage": "https://example.com/saitama-character-silhouette",
+    "originalImage": "https://example.com/saitama-original"
+  },
+  {
+    "id": 22,
+    "name": "Genos",
+    "nameHint": "G",
+    "silhouetteImage": "https://example.com/genos-character-silhouette",
+    "originalImage": "https://example.com/genos-original"
+  },
+  {
+    "id": 23,
+    "name": "Shinobu Kocho",
+    "nameHint": "S",
+    "silhouetteImage": "https://example.com/shinobu-character-silhouette",
+    "originalImage": "https://example.com/shinobu-kocho-original"
+  },
+  {
+    "id": 24,
+    "name": "Tanjiro Kamado",
+    "nameHint": "T",
+    "silhouetteImage": "https://example.com/tanjiro-character-silhouette",
+    "originalImage": "https://example.com/tanjiro-kamado-original"
+  },
+  {
+    "id": 25,
+    "name": "Nezuko Kamado",
+    "nameHint": "N",
+    "silhouetteImage": "https://example.com/nezuko-character-silhouette",
+    "originalImage": "https://example.com/nezuko-kamado-original"
+  },
+  {
+    "id": 26,
+    "name": "Gojo Satoru",
+    "nameHint": "G",
+    "silhouetteImage": "https://example.com/gojo-character-silhouette",
+    "originalImage": "https://example.com/gojo-satoru-original"
+  },
+  {
+    "id": 27,
+    "name": "Yuji Itadori",
+    "nameHint": "Y",
+    "silhouetteImage": "https://example.com/yuji-character-silhouette",
+    "originalImage": "https://example.com/yuji-itadori-original"
+  },
+  {
+    "id": 28,
+    "name": "Megumi Fushiguro",
+    "nameHint": "M",
+    "silhouetteImage": "https://example.com/megumi-character-silhouette",
+    "originalImage": "https://example.com/megumi-fushiguro-original"
+  },
+  {
+    "id": 29,
+    "name": "Shoto Todoroki",
+    "nameHint": "S",
+    "silhouetteImage": "https://example.com/shoto-character-silhouette",
+    "originalImage": "https://example.com/shoto-todoroki-original"
+  },
+  {
+    "id": 30,
+    "name": "Deku (Izuku Midoriya)",
+    "nameHint": "D",
+    "silhouetteImage": "https://example.com/deku-character-silhouette",
+    "originalImage": "https://example.com/deku-original"
+  }
 ]
